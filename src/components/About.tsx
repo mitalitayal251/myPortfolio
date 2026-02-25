@@ -106,7 +106,7 @@ const About = () => {
             <FaEnvelope size={20} />
           </a>
           <a
-            href={`${import.meta.env.BASE_URL}assets/Mitali Tayal.pdf`}
+            href={`${import.meta.env.BASE_URL}assets/Mitali-Tayal.pdf`}
             download="Mitali_Tayal.pdf"
             className="px-6 py-2 rounded-full border border-white/50 text-white hover:bg-white/10"
           >
