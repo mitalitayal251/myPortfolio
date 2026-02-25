@@ -14,7 +14,7 @@ const AboutMe: React.FC = () => {
           transition={{ duration: 0.5 }}
           className="mb-6"
         >
-          I’m a Software Engineer with 2.5+ years of experience building
+          I’m a Software Engineer with 3.5+ years of experience building
           scalable web applications at HERE Technologies, primarily working on
           large-scale geospatial systems.
         </motion.p>
