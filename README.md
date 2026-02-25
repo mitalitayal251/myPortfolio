@@ -6,8 +6,7 @@ A personal portfolio showcasing my experience, projects, and engineering approac
 React, TypeScript, Tailwind CSS, Framer Motion
 
 ## Live Demo
-(Will update after deployment)
-
+(https://mitalitayal251.github.io/myPortfolio/)
 ## Run Locally
 npm install
 npm run dev
