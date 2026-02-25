@@ -21,10 +21,10 @@ const App = () => {
       </section>
       <main className="pt-28 md:pt-24">
         {" "}
-        <section id="about">
+        <section id="home">
           <About />
         </section>
-        <section id="aboutMe">
+        <section id="about">
           <AboutMe />
         </section>
         <section id="experience">

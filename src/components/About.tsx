@@ -30,6 +30,7 @@ const floatVariants: { [key: string]: TargetAndTransition } = {
 const About = () => {
   return (
     <section
+      id="home"
       className="px-6 pt-20 md:pt-24 pb-20 
   flex flex-col md:flex-row 
   items-center justify-center 
