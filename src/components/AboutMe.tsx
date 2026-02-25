@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 const AboutMe: React.FC = () => {
   return (
     <section id="about" className="px-8 py-20 bg-[#0f0f1e]">
-      <h2 className="text-4xl font-extrabold text-gray-100 mb-12 text-center">
+      <h2 className="text-4xl font-extrabold text-gray-100 mb-12 text-center mt-10">
         About Me
       </h2>
       <div className="max-w-4xl mx-auto text-gray-300 text-lg leading-relaxed">

@@ -19,7 +19,8 @@ const App = () => {
       <section id="home">
         <Header />
       </section>
-      <main className="pt-[5rem]">
+      <main className="pt-28 md:pt-24">
+        {" "}
         <section id="about">
           <About />
         </section>
@@ -36,7 +37,6 @@ const App = () => {
         <section id="projects">
           <Projects />
         </section>
-
         {/* Designs Section */}
         {/* <section id="portfolio">
           <div className="max-w-4xl px-4 text-center"></div>

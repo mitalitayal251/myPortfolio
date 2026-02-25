@@ -31,7 +31,11 @@ const About = () => {
   return (
     <section
       id="about"
-      className="px-8 py-20 flex flex-col md:flex-row items-center justify-center h-[50rem] gap-[10rem] relative"
+      className="px-6 pt-20 md:pt-24 pb-20 
+  flex flex-col md:flex-row 
+  items-center justify-center 
+  gap-12 md:gap-24 
+  relative min-h-screen"
     >
       {/* Background Shapes */}
       <motion.div
